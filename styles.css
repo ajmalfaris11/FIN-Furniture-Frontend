@@ -1,0 +1,9 @@
+/* wrapper class to adjust layout padding */
+.wrapper{
+    width: 90%;
+    margin: 0 auto;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
