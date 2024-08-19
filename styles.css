@@ -7,3 +7,27 @@
 body {
     font-family: "Poppins", sans-serif;
 }
+
+/* scrolling bar hiding */
+
+
+
+/* Customize scrollbar */
+::-webkit-scrollbar {
+    width: 0px; /* Width of the scrollbar */
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Background color of the track */
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; /* Color of the scrollbar handle */
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Color of the scrollbar handle on hover */
+  }
